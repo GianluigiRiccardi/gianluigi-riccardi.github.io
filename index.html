@@ -91,12 +91,18 @@
 <footer class="no-print">
     <p>© 2025 Gianluigi Riccardi – Engineering Portfolio</p>
 </footer>
+<section id="experience">
+    <h2>Experience</h2>
+    <div id="experience-container"></div>
+</section>
+    
 <script>
 fetch('data/experience.json')
     .then(response => response.json())
     .then(data => {
         const container = document.getElementById('experience-container');
-        data.experience.forEach(item => {
+
+        data.forEach(item => {
             const block = document.createElement('div');
             block.classList.add('experience-item');
 
@@ -104,13 +110,14 @@ fetch('data/experience.json')
                 <h3>${item.role}</h3>
                 <h4>${item.company} — <span>${item.period}</span></h4>
                 <ul>
-                    ${item.description.map(point => `<li>${point}</li>`).join('')}
+                    ${item.highlights.map(point => `<li>${point}</li>`).join('')}
                 </ul>
             `;
+
             container.appendChild(block);
         });
     })
-    .catch(error => console.error('Error loading experience:', error));
+    .catch(error => console.error("Error loading experience:", error));
 </script>
 
 </body>
