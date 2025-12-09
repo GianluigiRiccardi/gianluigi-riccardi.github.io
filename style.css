@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #111;
+    background: #f7f7f7;
+}
+
+header {
+    background: #111;
+    color: white;
+    padding: 40px 20px;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.profile-photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 8px;
+    object-fit: cover;
+    border: 2px solid #fff;
+}
+
+.intro h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.intro h2 {
+    margin: 5px 0 10px;
+    font-weight: normal;
+    color: #ccc;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: #ddd;
+}
+
+.section {
+    padding: 30px 20px;
+    background: white;
+    margin: 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.skills-grid {
+    columns: 2;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #111;
+    color: white;
+}
+
+/* PRINT MODE */
+@media print {
+
+    body {
+        background: white;
+        margin: 0;
+    }
+
+    header, footer, .no-print {
+        display: none;
+    }
+
+    .section {
+        margin: 0 0 20px 0;
+        box-shadow: none;
+        border: none;
+        page-break-inside: avoid;
+    }
+
+    h1, h2, h3 {
+        color: black;
+    }
+}
