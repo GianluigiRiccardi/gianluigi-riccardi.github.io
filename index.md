@@ -1,3 +1,8 @@
+---
+layout: default
+title: Gianluigi Riccardi – Technical EHS Manager
+---
+
 # Gianluigi Riccardi
 **Technical EHS Manager – Sicurezza, Ambiente & Affidabilità Industriale**
 
