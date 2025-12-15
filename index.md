@@ -1,7 +1,3 @@
----
-layout: page
----
-
 **Safety, Reliability & Systems Engineering for Critical Assets**
 
 📧 gianluigi.riccardi@icloud.com  
