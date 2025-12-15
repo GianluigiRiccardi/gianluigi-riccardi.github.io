@@ -9,6 +9,9 @@ title: Gianluigi Riccardi – Technical EHS Manager
 
 📧 gianluigi.riccardi@icloud.com  
 🔗 LinkedIn | GitHub | Engineering Portfolio  
+📍 San Nicola La Strada (Caserta) 
+📞 +39 339 859 0552
+
 
 
 
