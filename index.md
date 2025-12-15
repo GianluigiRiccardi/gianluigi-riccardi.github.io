@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## EHS – RAMS – Industrial Reliability Manager
-
 **Safety, Reliability & Systems Engineering for Critical Assets**
 
 📧 gianluigi.riccardi@icloud.com  
