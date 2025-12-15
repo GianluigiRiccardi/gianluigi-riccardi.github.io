@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Gianluigi Riccardi – Technical EHS Manager
----
-
-# Gianluigi Riccardi  
+title: # Gianluigi Riccardi  
 ## EHS – RAMS – Industrial Reliability Manager  
 **Safety, Reliability & Systems Engineering for Critical Assets**
+---
+
+
 
 📧 gianluigi.riccardi@icloud.com  
 🔗 LinkedIn | GitHub | Engineering Portfolio  
