@@ -1,8 +1,6 @@
 # Gianluigi Riccardi
 **EHS Manager – Sicurezza, Ambiente & Affidabilità Industriale**
 
-📍 San Nicola La Strada (CE)  
-📞 +39 3398590552  
 📧 gianluigi.riccardi@icloud.com  
 🔗 [LinkedIn](https://linkedin.com/in/gianluigi-riccardi-ai-industrial)  
 🔗 [GitHub](https://github.com/GianluigiRiccardi)
