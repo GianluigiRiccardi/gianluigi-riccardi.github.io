@@ -101,5 +101,8 @@ Strong hands-on background in **complex plants, regulated environments and high-
 ## Soft Skills
 Leadership • Technical communication • Problem solving • Team coordination • System thinking • Innovation • Adaptability
 
-🌐 GitHub Page
-https://gianluigiriccardi.github.io/
+Explore the full engineering portfolio and projects on GitHub →  
+https://github.com/GianluigiRiccardi  
+
+Engineered and maintained by Gianluigi Riccardi
+
