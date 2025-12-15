@@ -9,8 +9,7 @@ title: Gianluigi Riccardi – Technical EHS Manager
 
 📧 gianluigi.riccardi@icloud.com  
 🔗 LinkedIn | GitHub | Engineering Portfolio  
-📍 San Nicola La Strada (Caserta)  
-📞 +39 339 85 90 552
+
 
 
 ---
@@ -102,3 +101,5 @@ Strong hands-on background in **complex plants, regulated environments and high-
 ## Soft Skills
 Leadership • Technical communication • Problem solving • Team coordination • System thinking • Innovation • Adaptability
 
+🌐 GitHub Page
+https://gianluigiriccardi.github.io/
