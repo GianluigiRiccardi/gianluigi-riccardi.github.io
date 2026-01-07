@@ -1,184 +1,231 @@
-# Gianluigi Riccardi
-Safety, Reliability and Systems Engineering for Critical Assets
+---
+layout: default
+title: "Gianluigi Riccardi – Engineering Control Room CV"
+---
 
-Email: gianluigi.riccardi@icloud.com  
-Phone: +39 339 859 0552  
-Location: San Nicola La Strada (Caserta), Italy  
-LinkedIn: https://www.linkedin.com/in/gianluigi-riccardi-ai-industrial  
-GitHub:  https://github.com/GianluigiRiccardi  
+<style>
+/* DARK CONTROL ROOM THEME */
+body {
+  background-color: #0d1117;
+  color: #e6edf3;
+  font-family: "Segoe UI", Roboto, sans-serif;
+}
+
+/* PANEL STYLE */
+.panel {
+  background: #161b22;
+  border: 1px solid #30363d;
+  padding: 18px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+/* LED INDICATORS */
+.led-green { color: #00ff85; font-weight: bold; }
+.led-yellow { color: #ffd000; font-weight: bold; }
+.led-red { color: #ff4d4d; font-weight: bold; }
+
+/* SECTION TITLES */
+h1, h2, h3 {
+  color: #58a6ff;
+  font-weight: 600;
+}
+
+/* COLLAPSIBLE PANELS */
+details {
+  background: #161b22;
+  border: 1px solid #30363d;
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+summary {
+  cursor: pointer;
+  font-size: 1.1em;
+  color: #58a6ff;
+}
+</style>
+
+# 🏭 ENGINEERING CONTROL ROOM  
+### **Gianluigi Riccardi**  
+**Safety • Reliability • Systems Engineering for Critical Assets**
+
+📍 San Nicola La Strada (CE), Italy  
+📧 **gianluigi.riccardi@icloud.com**  
+📱 **+39 339 859 0552**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gianluigi-riccardi-ai-industrial) · [GitHub](https://github.com/GianluigiRiccardi)
 
 ---
 
-## Professional Profile
+# 🔌 SYSTEM STATUS PANEL
 
-Industrial Engineering professional with 17+ years of experience in Oil & Gas and critical industrial assets.
+<div class="panel">
 
-Strong expertise at the intersection of:
-- maintenance coordination and plant reliability
-- HSE and operational risk management
-- RAMS engineering and predictive maintenance
-- digitalization, MATLAB/Simulink and AI applied to industry
+**System Uptime:** 17+ years  
+**Operating Environment:** Oil & Gas, High‑Risk Assets  
+**Core Functions:** Reliability • HSE • PdM • RAMS • Digital Twin  
+**Current Mode:** Continuous Improvement  
+**Safety Integrity Level:** <span class="led-green">● NOMINAL</span>  
+**Asset Availability Impact:** <span class="led-green">● POSITIVE</span>  
 
-Proven background in complex regulated plants, high-risk operations and critical assets, with focus on:
-- downtime reduction
-- asset integrity and continuity of service
-- early fault detection and condition monitoring
-- data-driven decision making and digital twins
-
-Currently pursuing **BSc in Industrial Engineering** (expected 2027).
+</div>
 
 ---
 
-## Core Expertise
+# 📊 KPI MONITORING PANEL
 
-### Maintenance Coordination and Plant Operations
-- planning and supervision of maintenance activities
-- team coordination and resource management
-- risk-based maintenance strategies
-- MTBF improvement and downtime reduction
+<div class="panel">
 
-### Reliability, RAMS and Systems Engineering
-- MTBF, MTTR, Weibull analysis
-- FMEA / FMECA, hazard log
-- Root Cause Analysis (RCA), Reliability Centered Maintenance (RCM)
-- reliability modelling and risk assessment
+### **Safety & Compliance**
+- <span class="led-green">●</span> Safety‑Critical Events: Reduced  
+- <span class="led-green">●</span> ATEX / LOTO / Confined Spaces: Certified  
 
-### Predictive Maintenance and Vibration Analysis
-- condition monitoring on rotating equipment
-- FFT, envelope analysis, trend analysis
-- early fault detection on pumps and motors
-- transition from corrective to predictive maintenance
+### **Reliability & Maintenance**
+- <span class="led-green">●</span> Rotating Equipment Failures: Prevented  
+- <span class="led-green">●</span> MTBF: Improved  
+- <span class="led-yellow">●</span> PdM Coverage: Expanding  
 
-### HSE and Operational Risk
-- Permit to Work systems, ATEX, LOTO, confined spaces
-- Loss Prevention System (LPS – ExxonMobil)
-- safety-critical procedures and emergency plans
-- contractor management and compliance
+### **Operational Continuity**
+- <span class="led-green">●</span> Firefighting Network: Zero‑Downtime  
+- <span class="led-green">●</span> Critical Lifting Ops: Incident‑Free  
 
-### Machine Learning and AI for Industry
-- predictive models for asset health estimation
-- anomaly detection and feature extraction
-- MATLAB/Simulink applied to maintenance engineering
-- digital twins and simulation workflows
+### **Digitalization**
+- <span class="led-green">●</span> MATLAB Automation: Deployed  
+- <span class="led-green">●</span> Digital Twin Models: Operational  
+- <span class="led-yellow">●</span> AI Diagnostics: In Progress  
 
-### Critical Lifting Operations and Project Management
-- lifting plans and risk evaluation
-- crane stability and dynamic load assessment
-- supervision of complex and critical lifts
-
-### Oil and Gas Operations
-- pipelines and storage terminals
-- Vapour Recovery Units (VRU)
-- firefighting and utilities networks
-- ship unloading operations
+</div>
 
 ---
 
-## Technical Skills
+# 🧩 SUBSYSTEMS (Core Competencies)
 
-Programming and Tools
-- MATLAB
-- Simulink
-- Python
-- GitHub
-- AutoCAD
-- 3D Lift Plan
-- LaTeX
-- Power Automate
+<details>
+<summary>Reliability & RAMS Module</summary>
+<ul>
+<li>MTBF, MTTR, Weibull</li>
+<li>FMEA/FMECA, RCA, RCM</li>
+<li>Hazard Log, Risk Modelling</li>
+</ul>
+</details>
 
-Engineering Methods
-- RAMS engineering
-- reliability analysis
-- vibration diagnostics
-- digital twin modelling
-- data-driven workflows and automation
+<details>
+<summary>Predictive Maintenance Module</summary>
+<ul>
+<li>Vibration Diagnostics (FFT, Envelope, Trends)</li>
+<li>Condition Monitoring</li>
+<li>Early Fault Detection</li>
+</ul>
+</details>
 
----
+<details>
+<summary>HSE & Operational Risk Module</summary>
+<ul>
+<li>LPS (ExxonMobil)</li>
+<li>ATEX, LOTO, Confined Spaces</li>
+<li>Emergency Plans, Contractor Management</li>
+</ul>
+</details>
 
-## Professional Experience
+<details>
+<summary>Digital Twin & Automation Module</summary>
+<ul>
+<li>MATLAB, Simulink</li>
+<li>Digital Twin Modelling</li>
+<li>Feature Extraction & Anomaly Detection</li>
+<li>Workflow Automation</li>
+</ul>
+</details>
 
-### Technical Manager – EHS, Reliability and Maintenance
-La Mantia S.r.l. – Esso Italiana / Sonatrach  
-January 2013 – Present
-
-- coordination of maintenance activities on pipelines, VRU systems, firefighting networks and wastewater plants  
-- planning and risk control of critical lifting operations  
-- implementation of Loss Prevention System (LPS) with reduction of safety-critical events  
-- development of safety procedures for ship unloading, VRU pressurization and valve replacement  
-- design of firefighting continuity solution ensuring **zero downtime**  
-- pump reliability case study with **early fault detection** based on vibration  
-- digitalization of maintenance and EHS workflows using MATLAB-based automation  
-
-### Technical Buyer and Specification Reviewer
-La Mantia S.r.l. – Esso Italiana  
-January 2009 – December 2012
-
-- technical review of specifications and materials focused on safety and reliability  
-- supplier qualification and compliance verification  
-- CAPEX and NRE cost monitoring  
-
----
-
-## Selected Engineering Projects
-
-- **SimuLift** – MATLAB/Simulink digital twin for lifting-risk evaluation  
-- **ReliaVib** – mobile vibration monitoring solution for rotating equipment  
-- **Original Maintenance Index (OMI)** – vibration-based machine health indicator  
-- **Intelligent Task Manager** – automated maintenance planning with EHS traceability  
+<details>
+<summary>Operations Module</summary>
+<ul>
+<li>Critical Lifting</li>
+<li>Crane Stability</li>
+<li>Pipelines, VRU, Firefighting Networks</li>
+</ul>
+</details>
 
 ---
 
-## Education
+# 🧪 DIAGNOSTICS LOG (Experience)
 
-BSc in Industrial Engineering — in progress  
-Expected completion: **2027**
+<div class="panel">
 
----
+## **Technical Manager – EHS, Reliability & Maintenance**  
+**La Mantia S.r.l. – Esso Italiana / Sonatrach** (2013–Present)
 
-## Certifications
+### Control Actions Executed
+- Maintenance coordination on pipelines, VRU, firefighting, wastewater  
+- Risk assessment + supervision of **critical lifting operations**  
+- Deployment of **Loss Prevention System (LPS)**  
+- Safety procedures for ship unloading, VRU pressurization, valve replacement  
+- Design of **zero‑downtime firefighting continuity**  
+- Vibration‑based early fault detection  
+- MATLAB automation for EHS/Maintenance workflows  
 
-- Advanced Vibration Analysis  
-- MATLAB, Simulink and Machine Learning (IBM / Coursera)  
-- Loss Prevention System – certified application  
-- HSE qualifications:
-  - ATEX
-  - Confined Spaces
-  - Working at Height
-  - Safety Trainer (3 years)
+### System Outcomes
+- ↓ Safety‑critical events  
+- ↓ Unplanned failures  
+- ↑ Asset availability  
+- ↑ Traceability and operational efficiency  
 
----
+</div>
 
-## Languages
+<div class="panel">
 
-- Italian — Native  
-- English — B2 Professional Working Proficiency  
+## **Technical Buyer & Specification Reviewer**  
+**La Mantia S.r.l. – Esso Italiana** (2009–2012)
 
----
+- Technical review of materials/specifications  
+- Supplier qualification  
+- CAPEX & NRE monitoring  
 
-## Key Achievements and KPIs
-
-- reduction of safety-critical events through LPS implementation  
-- zero-downtime firefighting continuity project  
-- prevention of pump failures through vibration-based monitoring  
-- deployment of predictive maintenance initiatives  
-- creation of digital engineering tools and automation workflows  
-
----
-
-## Soft Skills
-
-Leadership  
-Team coordination  
-Technical communication  
-Problem solving  
-Systems thinking  
-Innovation  
-Adaptability  
+</div>
 
 ---
 
-## Portfolio
+# 🧱 ENGINEERING MODULES (Projects)
 
-Engineering portfolio and projects:  
-https://github.com/GianluigiRiccardi
+<details>
+<summary>SimuLift – Digital Twin for Lifting Risk</summary>
+MATLAB/Simulink model for evaluating crane stability, dynamic loads and lifting risk.
+</details>
+
+<details>
+<summary>ReliaVib – Mobile Vibration Monitoring</summary>
+Portable system for rotating equipment diagnostics.
+</details>
+
+<details>
+<summary>OMI – Original Maintenance Index</summary>
+Machine health indicator based on vibration features.
+</details>
+
+<details>
+<summary>Intelligent Task Manager</summary>
+Automated maintenance planning with EHS traceability.
+</details>
+
+---
+
+# 🎓 EDUCATION
+**BSc Industrial Engineering – in progress**  
+Expected 2027  
+
+---
+
+# 🏅 CERTIFICATIONS
+Advanced Vibration Analysis · MATLAB/Simulink/ML (IBM/Coursera) · LPS  
+ATEX · Confined Spaces · Working at Height · Safety Trainer  
+
+---
+
+# 🌐 LANGUAGES
+Italian (Native) · English (B2 Professional)
+
+---
+
+# 🔥 VALUE STATEMENT
+I deliver measurable improvements in **safety, reliability and asset performance**, combining field experience with advanced digital engineering.
 
