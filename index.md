@@ -1,69 +1,252 @@
 ---
 layout: default
-title: "Gianluigi Riccardi – Engineering Control Room CV"
+title: "Gianluigi Riccardi – Senior Engineering Leader"
 ---
 
 <style>
-/* DARK CONTROL ROOM THEME */
+/* EXECUTIVE THEME — CLEAN, SOBER, PROFESSIONAL */
+
 body {
-  background-color: #0d1117;
-  color: #e6edf3;
-  font-family: "Segoe UI", Roboto, sans-serif;
+  background-color: #f5f5f5;
+  color: #1f2933;
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.55;
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
 }
 
-/* PANEL STYLE */
-.panel {
-  background: #161b22;
-  border: 1px solid #30363d;
-  padding: 18px;
-  border-radius: 8px;
-  margin-bottom: 20px;
-}
-
-/* LED INDICATORS */
-.led-green { color: #00ff85; font-weight: bold; }
-.led-yellow { color: #ffd000; font-weight: bold; }
-.led-red { color: #ff4d4d; font-weight: bold; }
-
-/* SECTION TITLES */
+/* HEADERS */
 h1, h2, h3 {
-  color: #58a6ff;
   font-weight: 600;
+  color: #12355b;
 }
 
-/* COLLAPSIBLE PANELS */
-details {
-  background: #161b22;
-  border: 1px solid #30363d;
-  padding: 12px;
+/* SECTION BLOCKS */
+.section {
+  padding: 22px 28px;
+  background: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #e0e0e0;
+  margin-bottom: 28px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+}
+
+/* TAGS */
+.tag {
+  display: inline-block;
+  background: #e6edf7;
+  color: #12355b;
+  padding: 4px 10px;
   border-radius: 6px;
-  margin-bottom: 12px;
+  margin: 3px;
+  font-size: 0.85em;
+  font-weight: 500;
+}
+
+/* COLLAPSIBLE SECTIONS */
+details {
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 summary {
   cursor: pointer;
-  font-size: 1.1em;
-  color: #58a6ff;
+  font-weight: 550;
+  color: #12355b;
 }
 </style>
 
-# 🏭 ENGINEERING CONTROL ROOM  
-### **Gianluigi Riccardi**  
-**Safety • Reliability • Systems Engineering for Critical Assets**
+# **Gianluigi Riccardi**  
+### Senior Engineer – Safety, Reliability & Systems Engineering
 
-📍 San Nicola La Strada (CE), Italy  
+San Nicola La Strada (CE), Italy  
 📧 **gianluigi.riccardi@icloud.com**  
 📱 **+39 339 859 0552**  
 🔗 [LinkedIn](https://www.linkedin.com/in/gianluigi-riccardi-ai-industrial) · [GitHub](https://github.com/GianluigiRiccardi)
 
 ---
 
-# 🔌 SYSTEM STATUS PANEL
+<div class="section">
 
-<div class="panel">
+# Executive Summary
+Senior Industrial Engineering professional with **17+ years of experience** in Oil & Gas and high‑risk industrial environments.  
+Specialized in **reliability, maintenance, HSE, RAMS, digitalization and condition monitoring**.
 
-**System Uptime:** 17+ years  
-**Operating Environment:** Oil & Gas, High‑Risk Assets  
-**Core Functions:** Reliability • HSE • PdM • RAMS • Digital Twin  
+I combine strong operational experience with advanced skills in **MATLAB/Simulink, digital twins, automation and vibration diagnostics**, delivering measurable improvements in **safety, asset availability and operational continuity**.
+
+</div>
+
+---
+
+<div class="section">
+
+# Leadership & Management Style
+I lead with a **calm, structured and safety‑driven approach**, shaped by years in high‑risk industrial environments.  
+My style is based on:
+
+- **Clear priorities and disciplined execution**  
+- **Safety and compliance as non‑negotiable foundations**  
+- **Collaborative leadership** with technicians, contractors and cross‑functional teams  
+- **Data‑driven decisions** using reliability metrics and diagnostic tools  
+- **Continuous improvement** through practical, sustainable solutions  
+- **Coaching and knowledge sharing** to strengthen team capability  
+
+I focus on **stability, clarity and accountability**, enabling teams to perform reliably in complex operational contexts.
+
+</div>
+
+---
+
+<div class="section">
+
+# Core Competencies
+<span class="tag">Reliability Engineering</span>
+<span class="tag">RAMS</span>
+<span class="tag">Predictive Maintenance</span>
+<span class="tag">Vibration Diagnostics</span>
+<span class="tag">HSE & Operational Risk</span>
+<span class="tag">Digital Twin</span>
+<span class="tag">MATLAB / Simulink</span>
+<span class="tag">Maintenance Coordination</span>
+<span class="tag">Critical Lifting Operations</span>
+<span class="tag">Asset Integrity</span>
+<span class="tag">Workflow Automation</span>
+
+</div>
+
+---
+
+<div class="section">
+
+# Key Achievements (KPI)
+- **~20% reduction in unplanned downtime** through preventive and predictive actions  
+- **~40% reduction in safety‑critical events and near loss** via LPS and procedural improvements  
+- **15–20% increase in MTBF** on critical rotating equipment  
+- **Technical and RAMS oversight of 100+ critical industrial assets**  
+- **Supervision of 50+ critical lifting operations** in Oil & Gas environments  
+- **Contribution to operational savings in the order of hundreds of thousands €/year**  
+- **Digitalization of 15+ operational and safety workflows**  
+
+</div>
+
+---
+
+<div class="section">
+
+# Professional Experience
+
+## Technical Manager – EHS, Reliability & Maintenance  
+**La Mantia S.r.l. – Esso Italiana / Sonatrach**  
+*2013 – Present*
+
+<details>
+<summary>Key Responsibilities</summary>
+
+- Coordination of maintenance activities on pipelines, VRU systems, firefighting networks and wastewater plants  
+- Risk assessment and supervision of **critical lifting operations**  
+- Implementation of **Loss Prevention System (LPS)**  
+- Development of safety procedures for ship unloading, VRU pressurization and valve replacement  
+- Design of **zero‑downtime firefighting continuity** solution  
+- Vibration‑based early fault detection on pumps and motors  
+- Digitalization of EHS and maintenance workflows using **MATLAB‑based automation**
+
+</details>
+
+<details>
+<summary>Key Results</summary>
+
+- ~20% reduction in unplanned downtime  
+- ~40% reduction in safety‑critical events  
+- 15–20% increase in MTBF  
+- Improved asset availability and operational continuity  
+- Enhanced traceability and efficiency through digital workflows  
+
+</details>
+
+---
+
+## Technical Buyer & Specification Reviewer  
+**La Mantia S.r.l. – Esso Italiana**  
+*2009 – 2012*
+
+<details>
+<summary>Scope of Role</summary>
+
+- Technical review of specifications and materials with focus on safety and reliability  
+- Supplier qualification and compliance verification  
+- CAPEX and NRE cost monitoring  
+
+</details>
+
+</div>
+
+---
+
+<div class="section">
+
+# Selected Engineering Projects
+
+<details open>
+<summary>SimuLift – Lifting Risk Digital Twin</summary>
+MATLAB/Simulink‑based digital twin for lifting‑risk evaluation, crane stability and dynamic load assessment.
+</details>
+
+<details>
+<summary>ReliaVib – Mobile Vibration Monitoring</summary>
+Portable vibration monitoring solution for rotating equipment, enabling early fault detection and condition‑based maintenance.
+</details>
+
+<details>
+<summary>OMI – Original Maintenance Index</summary>
+Machine health indicator based on vibration features and trend analysis, supporting maintenance decision‑making.
+</details>
+
+<details>
+<summary>Intelligent Task Manager</summary>
+Automated maintenance planning tool with integrated EHS traceability and workflow digitalization.
+</details>
+
+</div>
+
+---
+
+<div class="section">
+
+# Education
+**BSc in Industrial Engineering – in progress**  
+Expected completion: **2027**
+
+</div>
+
+---
+
+<div class="section">
+
+# Certifications
+Advanced Vibration Analysis · MATLAB, Simulink & Machine Learning (IBM / Coursera) · Loss Prevention System (LPS)  
+ATEX · Confined Spaces · Working at Height · Safety Trainer  
+
+</div>
+
+---
+
+<div class="section">
+
+# Languages
+Italian – Native  
+English – B2 Professional Working Proficiency  
+
+</div>
+
+---
+
+<div class="section">
+
+# Professional Value
+I bring a unique combination of **operational experience, engineering rigor and digital mindset**, with a clear focus on improving **safety, reliability and asset performance** in complex industrial environments.
+
+</div>
+
 **Current Mode:** Continuous Improvement  
 **Safety Integrity Level:** <span class="led-green">● NOMINAL</span>  
 **Asset Availability Impact:** <span class="led-green">● POSITIVE</span>  
