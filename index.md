@@ -1,5 +1,5 @@
 # Gianluigi Riccardi  
-### Senior Engineer & Operations Leader — Safety · Reliability · Maintenance
+### Senior Industrial Manager & Operations Leader — Safety · Reliability · Maintenance
 
 📍 San Nicola La Strada (CE), Italy  
 📧 gianluigi.riccardi@icloud.com · 📞 +39 339 859 0552  
@@ -7,74 +7,56 @@
 
 ---
 
-## Executive Profile
-Senior Industrial Engineer with **17+ years of experience** in safety-critical and high-risk industrial environments.  
-Strong background in **operations, maintenance management, safety (EHS) and reliability**, with hands-on leadership on critical assets, teams and processes.
-
-I combine **operational coordination, safety culture and reliability engineering** with **data-driven methods and digital tools** to improve availability, service continuity and cost control.
+# Gianluigi Riccardi  
+### Senior Industrial Manager · Operations · Safety · Reliability
 
 ---
 
-## Core Skills
+## 🚀 Executive Profile
+
+Senior Industrial Manager with **17+ years of experience** in operations, maintenance and reliability across **safety-critical industrial environments**.
+
+I operate at the intersection of **operational coordination, safety leadership and reliability engineering**, leveraging **data-driven methods and digital workflows** to improve **availability, service continuity and asset performance**.
+
+---
+
+## 🧩 Core Competencies
+
 - Operations & Maintenance Management  
+- Operational Planning & Resource Coordination  
 - Safety & EHS (procedures, compliance, culture)  
 - Reliability Engineering & RAMS  
-- Predictive Maintenance & Vibration Analysis  
+- Predictive Maintenance & Vibration Diagnostics  
 - Asset Integrity & Lifecycle Management  
-- Risk Assessment & Critical Operations (lifting, ATEX, high-risk tasks)  
-- Process Improvement & Workflow Optimization  
+- Process Optimization & Workflow Digitalization  
 - Team Leadership, Coaching & Training  
 
 ---
 
-## Tools & Technologies
+## 📊 Key Achievements
 
-**Engineering & Technical**
-- MATLAB  
-- Simulink  
-- AutoCAD  
-- 3D Lift Plan  
-
-**Data & Planning**
-- MATLAB scripting & workflow automation  
-- Basic Python for analysis  
-- Trello / digital boards for planning, scheduling and KPI tracking  
-
-**Reliability & Maintenance**
-- Vibration analysis tools  
-- RAMS methodologies  
-- Predictive maintenance frameworks  
-
----
-
-## Key Achievements (Selected KPI)
-- **~20% reduction in unplanned downtime** through preventive and predictive maintenance actions  
-- **~40% reduction in safety-critical events and near loss** via LPS and procedural improvements  
+- **~20% reduction in unplanned downtime** through structured planning and predictive diagnostics  
+- **~40% reduction in safety-critical events** via LPS implementation and field supervision  
 - **15–20% increase in MTBF** on critical rotating equipment  
-- **Technical and RAMS oversight of 100+ industrial assets** (pipelines, VRU, firefighting systems, process infrastructure)  
-- **Supervision of 50+ critical lifting operations** in high-risk environments  
-- **Digitalization and standardization of 15+ EHS and maintenance workflows**, improving traceability and efficiency  
+- **Technical and RAMS oversight of 100+ industrial assets**  
+- **Operational coordination of 50+ high-risk lifting activities**  
+- **Digitalization of 15+ operational workflows**, improving traceability and execution speed  
 
 ---
 
-## Professional Experience
+## 🏭 Professional Experience
 
 ### Technical Manager – EHS, Reliability & Maintenance  
 **La Mantia S.r.l. | Esso Italiana / Sonatrach**  
 *2013 – Present*
 
-- Coordination of **maintenance and field operations** on pipelines, VRU systems, firefighting networks and wastewater plants  
-- Direct responsibility for **safety, asset integrity and operational continuity** in a high-risk industrial environment  
-- Supervision of **critical lifting operations** and high-risk tasks, ensuring compliance with procedures and safety standards  
-- Implementation of **Loss Prevention System (LPS)** and safety programs, with structured reporting and follow-up  
-- Development and application of **predictive maintenance strategies** based on vibration diagnostics and condition monitoring  
-- Design and implementation of **digital workflows** for EHS and maintenance (planning, approvals, traceability)  
-- Daily interaction with contractors, suppliers and plant management to align operations, safety and maintenance priorities  
-
-**Key Contributions**
-- Reduced unplanned downtime and improved asset availability through structured maintenance planning and diagnostics  
-- Strengthened safety culture and reduced safety-critical events through procedures, training and field supervision  
-- Improved visibility on operations and maintenance through digital tools and standardized workflows  
+- Coordination of **maintenance and field operations** in safety-critical environments  
+- Responsibility for **operational planning, asset integrity and service continuity**  
+- Oversight of **high-risk lifting operations**  
+- Implementation and governance of **Loss Prevention System (LPS)**  
+- Development of **predictive maintenance strategies**  
+- Design and deployment of **digital workflows** for EHS, maintenance and planning  
+- Daily coordination with **contractors, suppliers and plant management**  
 
 ---
 
@@ -82,29 +64,32 @@ I combine **operational coordination, safety culture and reliability engineering
 **La Mantia S.r.l. | Esso Italiana**  
 *2009 – 2012*
 
-- Technical review of specifications and materials with focus on safety, reliability and compliance  
+- Technical review of **specifications and materials**  
 - Supplier qualification and performance evaluation  
-- Support to engineering and maintenance teams in procurement decisions and CAPEX monitoring  
+- Engineering and maintenance support activities  
 
 ---
 
-## Selected Engineering & Operational Projects
-- **SimuLift** — Lifting Risk Digital Twin (MATLAB/Simulink) for crane stability and lifting risk assessment  
-- **ReliaVib** — Mobile vibration monitoring solution for early fault detection and condition-based maintenance  
-- **OMI – Original Maintenance Index** — Machine health indicator based on vibration features and trends  
-- **Intelligent Task Manager** — Automated planning and tracking of maintenance and EHS workflows  
+## 🧪 Selected Engineering & Operational Projects
+
+- **SimuLift** — Digital Twin for lifting risk assessment  
+- **ReliaVib** — Mobile vibration-based diagnostic tool  
+- **OMI – Original Maintenance Index** — Machine health indicator  
+- **Intelligent Task Manager** — Workflow automation for maintenance and EHS  
 
 ---
 
-## Education
+## 🎓 Education
+
 **BSc in Industrial Engineering** *(in progress)*  
 Expected completion: **2027**
 
 ---
 
-## Certifications
+## 📜 Certifications & Training
+
 - Advanced Vibration Analysis  
-- MATLAB, Simulink & Machine Learning (IBM / Coursera)  
+- MATLAB, Simulink & Machine Learning  
 - Loss Prevention System (LPS)  
 - ATEX  
 - Confined Spaces  
@@ -113,13 +98,18 @@ Expected completion: **2027**
 
 ---
 
-## Languages
+## 🌍 Languages
+
 - Italian — Native  
 - English — B2 (Professional)
 
 ---
 
-## Professional Value
-I bring **operational discipline, safety leadership and reliability engineering** into a single profile.  
-My focus is on **keeping operations safe, reliable and under control**, while continuously improving processes, teams and asset performance.
+## 💡 Professional Value
 
+I bring **operational discipline, safety leadership and reliability engineering** into a single profile.
+
+My focus is simple and non-negotiable:  
+**keep operations safe, reliable and under control**, while continuously improving **processes, teams and asset performance**.
+
+> *Operational clarity, safety discipline and engineering rigor — this is how I work.*
